@@ -3,7 +3,7 @@
 This repo will contain the data for our paper: **RSU-aided LiDAR/Inertial Odometry and Mapping for Autonomous Driving in Urban Areas**
 
 <p align="center">
-  <img width="712pix" src="img/system_overview.png">
+  <img width="712pix" src="img/system_overview.jpg">
 </p>
 
 ## Videos:
