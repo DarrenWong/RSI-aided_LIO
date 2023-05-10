@@ -3,6 +3,9 @@
 This repo will contain the data for our paper: **RSU-aided LiDAR/Inertial Odometry and Mapping for Autonomous Driving in Urban Areas**
 
 ## Videos:
-
-## Videos:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9auTqimrJJU/0.jpg)](https://www.youtube.com/watch?v=9auTqimrJJU)
+Checkout our demo at [Video Link](https://youtu.be/9auTqimrJJU)
+<p align='center'>
+<a href="https://youtu.be/9auTqimrJJU">
+<img width="65%" src="/img/demo_rsu_aided.gif"/>
+</a>
+</p>
