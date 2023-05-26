@@ -7,9 +7,9 @@ This repo will contain the data for our paper: **Roadside Infrastructure assiste
 </p>
 
 ## Videos:
-Checkout our demo at [Video Link](https://youtu.be/9auTqimrJJU)
+Checkout our demo at [Video Link](https://youtu.be/qan46m3gczo)
 <p align='center'>
-<a href="https://youtu.be/9auTqimrJJU">
+<a href="https://youtu.be/qan46m3gczo">
 <img width="65%" src="/img/demo_rsu_aided.gif"/>
 </a>
 </p>
