@@ -1,6 +1,6 @@
 # RSU-aided_LIO
 
-This repo will contain the data for our paper: **RSU-aided LiDAR/Inertial Odometry and Mapping for Autonomous Driving in Urban Areas**
+This repo will contain the data for our paper: **Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas**
 
 <p align="center">
   <img width="712pix" src="img/system_overview.jpg">
