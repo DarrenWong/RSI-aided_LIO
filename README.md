@@ -1,4 +1,4 @@
-# RSU-aided_LIO
+# RSI-aided_LIO
 
 This repo will contain the data for our paper: **Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas**
 
