@@ -40,7 +40,7 @@ The topic within the rosbag are listed below:
 | :---: | :--: | :-------: | :---------: |
 | /velodyne_points | sensor_msgs/PointCloud2 | 10Hz | Velodyne_HDL32 |
 | /imu/data | sensor_msgs/Imu | 400Hz | IMU |
-| /novatel_data/inspvax | novatel_msgs/INSPVAX | 400Hz | Ground truth |
+| /novatel_data/inspvax | novatel_msgs/INSPVAX | 100Hz | Ground truth |
 
 ## Tools 
 You can visualize the Ground truth or transform it into ENU or LiDAR local frame using the tools in [here](https://github.com/IPNL-POLYU/UrbanNavDataset/tree/master/tools/gt_vis)
