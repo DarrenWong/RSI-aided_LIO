@@ -18,7 +18,7 @@ Checkout our demo at [Video Link](https://youtu.be/qan46m3gczo)
 <p align="center">
   <img width="712pix" src="img/sensor_setup.jpg">
 </p>
-https://www.dropbox.com/s/n6bg824ei0le918/vehicle_data_0412.bag?dl=0
+
 ### Vehicle Platform
 We use the [UrbanNav](https://github.com/IPNL-POLYU/UrbanNavDataset/tree/master) vehicle platform to conduct the experiments. GNSS, INS, cameras, and LiDARs are equipped on the vehicle platform. In addition, NovAtel SPAN-CPT integrates a fiber optics gyroscope (FOG) and GNSS-RTK to provide the ground truth (GT) positioning. Furthermore, the measurements from SPAN-CPT are further tightly coupled using the NovAtel Inertial Explorer to maximize the accuracy of the GT. 
 
