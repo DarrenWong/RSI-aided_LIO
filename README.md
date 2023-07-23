@@ -22,7 +22,7 @@ Checkout our demo at [Video Link](https://youtu.be/qan46m3gczo)
 ### Vehicle Platform
 We use the [UrbanNav](https://github.com/IPNL-POLYU/UrbanNavDataset/tree/master) vehicle platform to conduct the experiments. GNSS, INS, cameras, and LiDARs are equipped on the vehicle platform. In addition, NovAtel SPAN-CPT integrates a fiber optics gyroscope (FOG) and GNSS-RTK to provide the ground truth (GT) positioning. Furthermore, the measurements from SPAN-CPT are further tightly coupled using the NovAtel Inertial Explorer to maximize the accuracy of the GT. 
 
-### V2X Platform with intelligent sensors.
+### V2X Platform with intelligent sensors
 Each Roadside Infrastructure (RSI) in the ASTRI's [Hong Kong testbed](https://www.astri.org/tdprojects/connected-vehicle-v2x-technology/) contains measurements from GNSS, 300-line LiDAR, high-performance V2X communication, and edge computing.
 
 ### Synchronization
@@ -35,7 +35,7 @@ The dataset is released as rosbag and the vehicle data is available publicly. Th
 | :--: | :------: | :--: | :--: |
 | vehicle_data_0412 | 484s | 3.6 GB | [ROSBAG](https://www.dropbox.com/s/n6bg824ei0le918/vehicle_data_0412.bag?dl=0), [GT](https://www.dropbox.com/s/vvsca61as1kucy2/20230412_gt.txt?dl=0)|
 
-The topic within the rosbag are listed below:
+The topics within the rosbag are listed below:
 | topic | type | frequency | description |
 | :---: | :--: | :-------: | :---------: |
 | /velodyne_points | sensor_msgs/PointCloud2 | 10Hz | Velodyne_HDL32 |
