@@ -48,3 +48,14 @@ You can visualize the Ground truth or transform it into ENU or LiDAR local frame
 
 ## Acknowledge
 The authors would like to express their thanks to Hoi-Fung Ng, Xikun Liu, and Yihan Zhong from [IPNL lab](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html) for their kind help in the data collection. And the authors also thank the valuable comments from ITSC 2023 reviewer, we will try our best to extend our work with more scenarios and integrate with selected GNSS in the future. 
+
+## Citation
+
+@INPROCEEDINGS{rsalio2023huang,
+  author={Huang, Feng and Chen, Hang and Urtay, Alpamys and Su, Dongzhe and Wen, Weisong and Hsu, Li-Ta},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas}, 
+  year={2023},
+  volume={},
+  number={}
+}
