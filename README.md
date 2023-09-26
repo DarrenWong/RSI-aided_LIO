@@ -6,6 +6,8 @@ This repo contains the data of  our ITSC 2023 [paper](doc/ITSC2023_RSI_aided_map
   <img width="712pix" src="img/system_overview.jpg">
 </p>
 
+**Contact Authors**: Feng Huang, Weisong Wen and Li-ta Hsu from the [Intelligent Positioning and Navigation Laboratory](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnique University. Hang Chen, Alpamys Urtay and Dongzhe Su from the [Hong Kong Applied Science And Technology Research Institute](https://www.astri.org/)
+
 ## Videos:
 Checkout our demo at [Video Link](https://youtu.be/qan46m3gczo)
 <p align='center'>
