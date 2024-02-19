@@ -1,6 +1,6 @@
 # RSI-aided LiDAR/Inertial Odometry and Mapping
 
-This repo contains the data of  our ITSC 2023 [paper](doc/ITSC2023_RSI_aided_mapping.pdf): **Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas** . It is part of the project [V2X Cooperative Navigation](https://sites.google.com/view/v2x-cooperative-navigation).
+This repo contains the data of  our ITSC 2023 [paper](https://ieeexplore.ieee.org/abstract/document/10422552): **Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas** . It is part of the project [V2X Cooperative Navigation](https://sites.google.com/view/v2x-cooperative-navigation).
 
 <p align="center">
   <img width="712pix" src="img/system_overview.jpg">
